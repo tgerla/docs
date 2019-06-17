@@ -4,7 +4,7 @@ date: 2018-10-30T09:16:35-07:00
 draft: false
 weight: 80
 menu:
-  main:
+  docs:
     parent: 'components'
     weight: 80
 ---

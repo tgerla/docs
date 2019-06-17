@@ -4,7 +4,7 @@ date: 2018-11-03T17:14:49-07:00
 draft: false
 weight: 10
 menu:
-  main:
+  docs:
     identifier: "osd-configuration"
     parent: 'configuration'
     weight: 10

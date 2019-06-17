@@ -4,7 +4,7 @@ date: 2019-2-19
 draft: false
 weight: 20
 menu:
-  main:
+  docs:
     parent: 'examples'
     weight: 20
 ---
