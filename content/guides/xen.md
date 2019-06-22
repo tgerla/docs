@@ -2,11 +2,9 @@
 title: "Xen"
 date: 2018-11-06T06:25:46-08:00
 draft: false
-weight: 40
 menu:
   docs:
-    parent: 'examples'
-    weight: 40
+    parent: 'guides'
 ---
 
 ## Creating a Master Node

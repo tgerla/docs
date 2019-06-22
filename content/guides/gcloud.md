@@ -2,11 +2,9 @@
 title: "Google Cloud"
 date: 2019-2-19
 draft: false
-weight: 20
 menu:
   docs:
-    parent: 'examples'
-    weight: 20
+    parent: 'guides'
 ---
 
 First, create the Google Cloud compatible image:

@@ -13,19 +13,20 @@ sectionPagesMenu = "main"
     DockerHubLink = "https://hub.docker.com/u/talos-systems"
 
 [[menu.main]]
+    identifier = "guides"
+    name       = "Guides"
+    url        = "/guides/"
+    weight     = 10
+
+[[menu.main]]
     identifier = "components"
     name       = "Components"
     url        = "/components/"
-    weight     = 10
+    weight     = 20
 
 [[menu.main]]
     identifier = "configuration"
     name       = "Configuration"
     url        = "/configuration/"
-    weight     = 20
-
-[[menu.main]]
-    identifier = "examples"
-    name       = "Examples"
-    url        = "/examples/"
     weight     = 30
+

@@ -2,11 +2,9 @@
 title: "KVM"
 date: 2018-10-29T19:40:55-07:00
 draft: false
-weight: 30
 menu:
   docs:
-    parent: 'examples'
-    weight: 30
+    parent: 'guides'
 ---
 
 ## Creating a Master Node
