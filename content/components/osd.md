@@ -2,16 +2,15 @@
 title: "osd"
 date: 2018-10-29T19:40:55-07:00
 draft: false
-weight: 60
 menu:
   docs:
     parent: 'components'
-    weight: 60
 ---
 
 Talos is unique in that it has no concept of host-level access.
+There is no ssh daemon.
+There is no interactive console session.
 There are no shells installed.
-No ssh daemon.
 Only what is required to run Kubernetes.
 Furthermore, there is no way to run any custom processes on the host level.
 
@@ -22,3 +21,5 @@ We still need a way to handle operational scenarios that may arise.
 
 The `osd` daemon provides a way to do just that.
 Based on the Principle of Least Privilege, `osd` provides operational value for cluster administrators by providing an API for node management.
+
+Interactions with `osd` are handled via [osctl](/docs/components/osctl) which communicates via gRPC.
