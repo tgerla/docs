@@ -16,4 +16,4 @@ For details on the various components that make up Talos, please see the pages i
 
 To get started quickly using a local Docker-based environment, please see our [Getting Started Guide]({{< ref "guides/getting_started.md" >}}).
 
-If you need help, or if you have questions or comments, we would love to hear from you! Please [join our community]({{< ref "/community">}}) on Slack, GitHub, or the mailing list.
+If you need help, or if you have questions or comments, we would love to hear from you! Please [join our community](https://www.talos-systems.com/community/) on Slack, GitHub, or the mailing list.
